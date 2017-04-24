@@ -17,6 +17,13 @@ Every call to the Computer Vision API requires a subscription key. This key need
 
 To sign up for subscription keys, see [Subscriptions](https://www.microsoft.com/cognitive-services/en-us/sign-up). It's free to sign up. Pricing for these services is subject to change. 
 
+To get the key (which will work with the code):
+- Open portal.azure.com
+- Add new service by clicking on the + sign
+- After you add the service, click on it
+- Now you will see a menu item __Keys__ under __RESOURCE MANAGEMENT__
+- This is the key you need. 
+
 > [!NOTE] 
 > Free subscriptions that are not used for 90 days consecutively may expire. However, if your subscription expires you can request new keys.
 >
